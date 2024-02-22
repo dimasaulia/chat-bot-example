@@ -1,0 +1,4 @@
+USER = {}
+ACTIVITY = {}
+LAPORAN = {}
+FORMULIR = {}
